@@ -1,4 +1,6 @@
-# Yi-like-E.github.io
+# Yi-like-E.github.io 
+
+:deciduous_tree: :rabbit2: :bug: :beetle: :honeybee: :hamster: :hibiscus:
 
 The site contains a search bar to locate the observed animals/plants near by with a filter that can list either native or endangered species. 
 
