@@ -10,4 +10,4 @@ The site is built on top of the work from Prof. David Humphrey from Seneca colle
 
 I made the search bar, observation form, inplemented few functions(validate, search) in both search.js and validate.js then did minor tweaking to the css.
 
-Note: The form doesn't really get sent to iNaturalist, it's a mock up form but the constraints for each fields are working.
+Note: The form doesn't get sent to iNaturalist, it's a mock up form that get sent to formspree to check if the constraints for each fields are working.
